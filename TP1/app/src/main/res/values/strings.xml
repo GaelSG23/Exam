@@ -1,0 +1,19 @@
+
+
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="titre_joueurs">Joueurs</string>
+    <string name="titre_sondage">Sondage</string>
+    <string name="listViewJoueurs">Liste Joueurs</string>
+    <string name="exemple_nom_joueur">Prénom Nom</string>
+    <string name="exemple_courriel_joueur">exemple@email.com</string>
+    <string name="titre_presences">Présences</string>
+    <string name="joueur">Joueur</string>
+    <string name="activite">Activité</string>
+    <string name="present">Présent</string>
+    <string name="nom">Nom</string>
+    <string name="note">Note de 0 à 10</string>
+    <string name="commentaire">Commentaire</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="moyenner_initiale">0</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP2GSG</string>
+    <array name="pizza">
+        <item>Fromage</item>
+        <item>Peppéroni</item>
+        <item>Bacon</item>
+        <item>Garnie</item>
+        <item>Végé</item>
+    </array>
+</resources>
